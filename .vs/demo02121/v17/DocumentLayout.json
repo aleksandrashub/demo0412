@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\demo02121\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|c:\\users\\prdb\\source\\repos\\demo02121\\currentzayavki.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:currentzayavki.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\currentzayavki.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:currentzayavki.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\zayavka.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:zayavka.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\zayavka.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:zayavka.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\selecttype.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:selecttype.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\reg.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:reg.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\selecttype.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:selecttype.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\reg.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:reg.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|C:\\Users\\prdb\\source\\repos\\demo02121\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{E3E79220-F315-40E8-8489-8949F35DF383}|demo02121.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zayavka.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\Zayavka.axaml",
+              "RelativeDocumentMoniker": "Zayavka.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\Zayavka.axaml",
+              "RelativeToolTip": "Zayavka.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T12:27:30.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zayavka.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\Zayavka.axaml.cs",
+              "RelativeDocumentMoniker": "Zayavka.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\Zayavka.axaml.cs",
+              "RelativeToolTip": "Zayavka.axaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:27:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectType.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\SelectType.axaml",
+              "RelativeDocumentMoniker": "SelectType.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\SelectType.axaml",
+              "RelativeToolTip": "SelectType.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T12:26:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectType.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\SelectType.axaml.cs",
+              "RelativeDocumentMoniker": "SelectType.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\SelectType.axaml.cs",
+              "RelativeToolTip": "SelectType.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:26:01.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentZayavki.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\CurrentZayavki.axaml",
+              "RelativeDocumentMoniker": "CurrentZayavki.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\CurrentZayavki.axaml",
+              "RelativeToolTip": "CurrentZayavki.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T12:24:07.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentZayavki.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\CurrentZayavki.axaml.cs",
+              "RelativeDocumentMoniker": "CurrentZayavki.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\CurrentZayavki.axaml.cs",
+              "RelativeToolTip": "CurrentZayavki.axaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:24:07.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:22:50.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reg.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\Reg.axaml",
+              "RelativeDocumentMoniker": "Reg.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\Reg.axaml",
+              "RelativeToolTip": "Reg.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T12:22:12.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reg.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\Reg.axaml.cs",
+              "RelativeDocumentMoniker": "Reg.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\Reg.axaml.cs",
+              "RelativeToolTip": "Reg.axaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:22:12.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T12:14:25.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo02121\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo02121\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:14:25.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
